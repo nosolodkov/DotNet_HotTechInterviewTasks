@@ -1,8 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using DotNet_HotTechInterviewTasks.LINQ;
+using System;
 
 namespace DotNet_HotTechInterviewTasks
 {
@@ -10,6 +7,9 @@ namespace DotNet_HotTechInterviewTasks
     {
         static void Main(string[] args)
         {
+            MinMaxInt.PrintResult();
+
+            Console.ReadLine();
         }
     }
 }
